@@ -35,7 +35,7 @@ bcrypt==                             3.2.0
 beautifulsoup4==                     4.10.0
 binaryornot==                        0.4.4
 bitarray==                           2.3.0
-bkchart==                           0.2
+
 black==                             19.10b0
 bleach==                             4.0.0
 blinker==                            1.5
