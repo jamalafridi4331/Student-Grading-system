@@ -3,7 +3,7 @@ aiohttp==                            3.8.3
 aiosignal==                          1.2.0
 alabaster==                          0.7.12
 alembic==                            1.9.3
-altair==                             4.1.0
+
 anaconda-client==                    1.9.0
 anaconda-navigator==                 2.2.0
 anaconda-project==                   0.10.1
