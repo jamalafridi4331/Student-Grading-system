@@ -6,7 +6,7 @@ alembic==                            1.9.3
 altair==                             4.2.0
 anaconda-client==                    1.2.2
 
-anaconda-project==                   0.10.1
+anaconda-project==                   23.1.1
 anyio==                              2.2.0
 appdirs==                            1.4.4
 argh==                               0.26.2
