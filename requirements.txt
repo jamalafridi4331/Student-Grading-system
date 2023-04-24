@@ -70,7 +70,7 @@ conda-content-trust==                0.1.2
 conda-pack==                         0.6.0
 
 
-conda-verify==                       3.4.2
+
 confection==                         0.0.3
 contextlib2==                        0.6.0.post1
 cookiecutter==                       1.7.2
